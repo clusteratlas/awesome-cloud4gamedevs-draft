@@ -41,11 +41,13 @@
   - Microsoft Azure
   - Amazon Web Services
   - Google Cloud Platform
-- Free Tiers (& Limits)
-- Pricing & Calculators
+  - Free Tiers (& Limits)
+  - Pricing & Calculators
+  - Feature-By-Feature Comparisons
 - Step-By-Step Guides / Examples
   - Basic Virtual Machine Deployment
   - Single-Region VM-Scale-Set w/ Load Balancer
+  - Opening Ports For Your Virtual Machine
   - Multi-Region Single Virtual Machine Deployment, w/ Traffic Manager
   - Multi-Region VM-Scale-Set w/ Load Balancer & Traffic Manager
   - Using Cloud DNS Service
