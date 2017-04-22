@@ -12,13 +12,15 @@
   - TCP, UDP & Websockets
   - Port-forwarding
   - Latencies
-- Cloud Concepts
+- Cloud Concepts & Technologies
   - Cloud Pricing
     - Compared to VPS & Dedicated Hosting
     - No upfront costs
     - Pay only for what you use
     - No termination fees
     - Use Of Spending Limits
+  - Data Centers
+    - Local Facilities, Regions, Zones
   - Virtual Machines
     - SSD & HDD IOPS
     - Network Throughput
@@ -27,15 +29,14 @@
     - Vertical vs Horizontal Scaling
   - Virtual Networks
     - Ingress vs Egress
-  - Metrics
-  - Data center regions, local facilities, zones
-- Cloud Technologies
-  - Relational (SQL) & Non-Relational (NoSQL) Databases
+  - Load Balancers
+  - Traffic Managers
+  - Databases
+    - Relational (SQL) & Non-Relational (NoSQL)
   - Redis Cache
   - Cloud Storage
   - CDN's (Cloud Delivery Networks)
-  - Load Balancers
-  - Traffic Managers
+  - Metrics
 - Cloud Providers
   - Microsoft Azure
   - Amazon Web Services
