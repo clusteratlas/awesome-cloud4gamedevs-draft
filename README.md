@@ -52,3 +52,8 @@
   - Deploying Multi-Region Readable NoSQL DB
   - Deploying Redis Cache Instances
   - Using CDN's (Cloud Delivery Network) In Serving Game Assets
+- Misc
+  - Connecting to your Virtual Machine
+    - FTP / SFTP / SCP (winscp / filezilla)
+    - SSH (putty)
+  - Installing Node.js & NPM
