@@ -19,9 +19,9 @@
     - No termination fees
     - Use Of Spending Limits
   - Virtual Machines
-    - SSD & HDD
+    - SSD & HDD IOPS
     - Network Throughput
-    - # Of Cores
+    - Cores
     - RAM
     - Vertical vs Horizontal Scaling
   - Virtual Networks
