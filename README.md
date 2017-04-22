@@ -14,6 +14,7 @@
   - Latencies
 - Cloud Concepts
   - Cloud Pricing
+    - Compared to VPS & Dedicated Hosting
     - No upfront costs
     - Pay only for what you use
     - No termination fees
