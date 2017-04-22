@@ -1,4 +1,4 @@
-### Cloud infrastructure &amp; deployments made easy, curated for HTML5 Indie Game Developers.
+### Cloud infrastructure &amp; deployments made easy, curated for Indie Game Developers.
 > A multi-part series that covers the most basic cloud concepts, down to complex real-world applications of modern cloud concepts and technologies.
 
 ### Table Of Contents
@@ -42,4 +42,13 @@
   - Google Cloud Platform
 - Free Tiers (& Limits)
 - Pricing & Calculators
-  
+- Step-By-Step Guides / Examples
+  - Basic Virtual Machine Deployment
+  - Single-Region VM-Scale-Set w/ Load Balancer
+  - Multi-Region Single Virtual Machine Deployment, w/ Traffic Manager
+  - Multi-Region VM-Scale-Set w/ Load Balancer & Traffic Manager
+  - Using Cloud DNS Service
+  - Deploying Single-Region Readable NoSQL DB
+  - Deploying Multi-Region Readable NoSQL DB
+  - Deploying Redis Cache Instances
+  - Using CDN's (Cloud Delivery Network) In Serving Game Assets
